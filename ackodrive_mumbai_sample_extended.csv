@@ -1,0 +1,25 @@
+brand,model,kilometers_driven,year,fuel_type,transmission,price_in_INR,location,owners,url,scraped_date
+Maruti Suzuki,Swift VXI,"32,000 km",2019,Petrol,Manual,"5,10,000",Mumbai,1 owner,https://ackodrive.com/sample-maruti-swift-2019,2025-11-25
+Hyundai,i20 Asta,"26,500 km",2018,Petrol,Automatic,"6,25,000",Mumbai,2 owners,https://ackodrive.com/sample-hyundai-i20-2018,2025-11-25
+Tata,Tiago XZ,"18,900 km",2020,Petrol,Manual,"4,15,000",Mumbai,1 owner,https://ackodrive.com/sample-tata-tiago-2020,2025-11-25
+Honda,City ZX,"45,200 km",2017,Diesel,Manual,"7,80,000",Mumbai,2 owners,https://ackodrive.com/sample-honda-city-2017,2025-11-25
+Hyundai,Tiago XZ,"23,659 km",2021,Petrol,Automatic,"677,238",Mumbai,1 owner,https://ackodrive.com/sample-hyundai-tiagoxz-2021,2025-12-01
+Tata,i20 Asta,"75,406 km",2018,Petrol,Automatic,"769,129",Mumbai,1 owner,https://ackodrive.com/sample-tata-i20asta-2018,2025-12-01
+Kia,Swift VXI,"63,714 km",2021,Petrol,Manual,"1,326,523",Mumbai,1 owner,https://ackodrive.com/sample-kia-swiftvxi-2021,2025-12-01
+Maruti Suzuki,Seltos HTK,"20,227 km",2020,Diesel,Manual,"477,195",Mumbai,2 owners,https://ackodrive.com/sample-marutisuzuki-seltoshtk-2020,2025-12-01
+Hyundai,Creta SX,"20,010 km",2021,Petrol,Automatic,"1,125,515",Mumbai,2 owners,https://ackodrive.com/sample-hyundai-cretasx-2021,2025-12-01
+Honda,Seltos HTK,"76,610 km",2019,Diesel,Automatic,"840,626",Mumbai,1 owner,https://ackodrive.com/sample-honda-seltoshtk-2019,2025-12-01
+Kia,City ZX,"26,546 km",2022,Diesel,Automatic,"468,582",Mumbai,1 owner,https://ackodrive.com/sample-kia-cityzx-2022,2025-12-01
+Mahindra,Seltos HTK,"56,561 km",2018,Petrol,Manual,"1,026,247",Mumbai,1 owner,https://ackodrive.com/sample-mahindra-seltoshtk-2018,2025-12-01
+Renault,Swift VXI,"56,742 km",2020,Petrol,Manual,"314,587",Mumbai,1 owner,https://ackodrive.com/sample-renault-swiftvxi-2020,2025-12-01
+Tata,Tiago XZ,"27,840 km",2019,Petrol,Automatic,"305,647",Mumbai,1 owner,https://ackodrive.com/sample-tata-tiagoxz-2019,2025-12-01
+Mahindra,Kwid RXT,"45,874 km",2022,Petrol,Manual,"1,463,772",Mumbai,1 owner,https://ackodrive.com/sample-mahindra-kwidrxt-2022,2025-12-01
+Tata,Tiago XZ,"33,428 km",2016,Diesel,Manual,"924,123",Mumbai,2 owners,https://ackodrive.com/sample-tata-tiagoxz-2016,2025-12-01
+Renault,i20 Asta,"76,321 km",2018,Petrol,Manual,"1,287,396",Mumbai,1 owner,https://ackodrive.com/sample-renault-i20asta-2018,2025-12-01
+Toyota,Kwid RXT,"59,429 km",2019,Petrol,Manual,"366,301",Mumbai,2 owners,https://ackodrive.com/sample-toyota-kwidrxt-2019,2025-12-01
+Hyundai,i20 Asta,"73,228 km",2018,Petrol,Manual,"1,042,683",Mumbai,2 owners,https://ackodrive.com/sample-hyundai-i20asta-2018,2025-12-01
+Toyota,Swift VXI,"81,384 km",2019,Diesel,Manual,"457,426",Mumbai,2 owners,https://ackodrive.com/sample-toyota-swiftvxi-2019,2025-12-01
+Hyundai,Seltos HTK,"61,260 km",2018,Diesel,Automatic,"914,203",Mumbai,2 owners,https://ackodrive.com/sample-hyundai-seltoshtk-2018,2025-12-01
+Honda,Swift VXI,"48,384 km",2020,Diesel,Manual,"875,414",Mumbai,2 owners,https://ackodrive.com/sample-honda-swiftvxi-2020,2025-12-01
+Tata,Seltos HTK,"55,114 km",2016,Diesel,Manual,"956,748",Mumbai,1 owner,https://ackodrive.com/sample-tata-seltoshtk-2016,2025-12-01
+Mahindra,Seltos HTK,"10,018 km",2018,Diesel,Automatic,"1,260,188",Mumbai,1 owner,https://ackodrive.com/sample-mahindra-seltoshtk-2018,2025-12-01

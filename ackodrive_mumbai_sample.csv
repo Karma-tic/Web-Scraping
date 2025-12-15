@@ -1,0 +1,5 @@
+brand,model,kilometers_driven,year,fuel_type,transmission,price_in_INR,location,owners,url,scraped_date
+Maruti Suzuki,Swift VXI,"32,000 km",2019,Petrol,Manual,"5,10,000",Mumbai,1 owner,https://ackodrive.com/sample-maruti-swift-2019,2025-11-25
+Hyundai,i20 Asta,"26,500 km",2018,Petrol,Automatic,"6,25,000",Mumbai,2 owners,https://ackodrive.com/sample-hyundai-i20-2018,2025-11-25
+Tata,Tiago XZ,"18,900 km",2020,Petrol,Manual,"4,15,000",Mumbai,1 owner,https://ackodrive.com/sample-tata-tiago-2020,2025-11-25
+Honda,City ZX,"45,200 km",2017,Diesel,Manual,"7,80,000",Mumbai,2 owners,https://ackodrive.com/sample-honda-city-2017,2025-11-25
